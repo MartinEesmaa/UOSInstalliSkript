@@ -1,0 +1,2 @@
+Mäng kasutab automaatset uuenduste süsteemi, mis tagab, et alati on alla laetud kõige uuem versioon. 
+Selle toimimiseks on vaja, et mäng paigaldatakse kataloogi, kus on olemas õigused enda uuendamiseks.
